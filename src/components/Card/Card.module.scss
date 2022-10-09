@@ -11,3 +11,13 @@
   justify-content: space-between;
   font-weight: bold;
 }
+
+.favButton {
+  background: none;
+  cursor: pointer;
+  border: none;
+}
+
+.active {
+  color: #f1c40f;
+}
